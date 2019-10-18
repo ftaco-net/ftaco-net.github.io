@@ -1,5 +1,7 @@
-# FTACO.NET Manual
-## My first Blog Post
-* Post1
-* Post2
-* Post3
+
+## 협력사 사용자 매뉴얼 
+* 1. FTACO.NET ? 
+* 2. FTACO.NET 원산지확인서 발급 절차 
+* 3. 원산지확인서 요청메일 수신
+* 4. 회원가입 / 로그인
+
