@@ -1,5 +1,5 @@
 ---
-title: "02. FTACO.NET 원산지확인서 작성/발급 절차"
+title: "FTACO.NET 원산지확인서 작성/발급 절차"
 date: 2019-10-18 15:00:00 -0400
 categories: clayworks
 ---
